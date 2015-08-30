@@ -1,0 +1,87 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "theksmith",
+    "longName": "THE SK8R Watchface",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/bars.png",
+                "name": "IMAGE_BARS",
+                "type": "png"
+            },
+            {
+                "characterRegex": "[0-9/]",
+                "file": "fonts/Capture_it_NumMono.ttf",
+                "name": "FONT_CAPTUREITNUMMONO_REGULAR_28",
+                "trackingAdjust": 2,
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9:]",
+                "file": "fonts/Capture_it_NumMono.ttf",
+                "name": "FONT_CAPTUREITNUMMONO_REGULAR_56",
+                "type": "font"
+            },
+            {
+                "file": "images/icon-28x28.png",
+                "menuIcon": true,
+                "name": "IMAGE_ICON_APP",
+                "type": "png"
+            },
+            {
+                "file": "images/day_6.png",
+                "name": "IMAGE_DAY_6",
+                "type": "png"
+            },
+            {
+                "file": "images/day_5.png",
+                "name": "IMAGE_DAY_5",
+                "type": "png"
+            },
+            {
+                "file": "images/day_4.png",
+                "name": "IMAGE_DAY_4",
+                "type": "png"
+            },
+            {
+                "file": "images/day_3.png",
+                "name": "IMAGE_DAY_3",
+                "type": "png"
+            },
+            {
+                "file": "images/day_2.png",
+                "name": "IMAGE_DAY_2",
+                "type": "png"
+            },
+            {
+                "file": "images/day_1.png",
+                "name": "IMAGE_DAY_1",
+                "type": "png"
+            },
+            {
+                "file": "images/day_0.png",
+                "name": "IMAGE_DAY_0",
+                "type": "png"
+            },
+            {
+                "file": "images/datebg.png",
+                "name": "IMAGE_DATEBG",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "THE SK8R",
+    "targetPlatforms": [
+        "aplite"
+    ],
+    "uuid": "321d96d5-f5a7-4f45-865f-54ef07609e43",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
