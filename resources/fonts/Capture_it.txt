@@ -1,0 +1,23 @@
+Capture_it.ttf
+--------------------------------------------------
+
+Cpr.Sparhelt font License v1.00
+
+My Fonts Are free to use personal and commercial works to. But you can't sell them direktly.
+
+Please don't make illegal copies of th fonts.
+
+Thankx and regards: Koczman Bálint (Cpr.Sparhelt)
+
+- Bálint Koczman (aka Cpr. Sparhelt, Magique Fonts)
+
+
+
+Capture_it_NumMono.ttf
+--------------------------------------------------
+
+Modified original Capture_it.ttf for monospaced and centered digits, colon, and forward-slash.
+
+Original licensing remains intact.
+
+- Kristoffer Smith (kristoffer@theksmith.com)
